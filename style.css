@@ -1,0 +1,88 @@
+h1  {
+	font-family: 'Roboto', sans-serif;
+	margin: 36px 36px 0px 0px;
+}
+h2{
+    font-family: 'Roboto', sans-serif;
+	margin: 26px 32px 0px 0px;
+}
+p {
+	font-family: 'Roboto', sans-serif;
+	margin: 20px 26px 0px 0px;
+
+}
+article {
+	margin: 0 auto;
+	width:  50%;
+}
+ol {
+	font-family: 'Roboto', sans-serif;
+	margin-bottom: 10px;
+
+
+}
+ul li {
+	font-family: 'Roboto', sans-serif;
+	margin-top: : 40px;
+	margin-bottom: 10px;
+
+}
+ a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 10px 10px;
+  text-decoration: none;
+  width: 100px;
+  float: left;
+
+}
+a:hover {
+  background-color: #111;
+}
+
+.gehaktbrood{
+	margin: 0 auto;
+	margin-top: 20px;
+	width:  50%;
+
+}
+.Ingredienten{
+    margin: 0 auto;
+    margin-top:20px 26px 0px 0px;
+	width:  50%;
+	margin-bottom: 10px;
+
+}
+.Bereidingswijze{
+	margin: 0 auto;
+	margin-top:30px 26px 0px 0px;
+	width:  50%;
+}
+.Bereidingswijzestyle{
+	list-style-type: upper-roman;
+
+}
+.Title{
+	margin: 0 auto;
+	margin-bottom: 10px;
+	width:  50%;
+	border-bottom: solid;
+	border-width: 1px
+}
+.Tip{
+	margin: 0 auto;
+	margin-top: 25px 0px 0px 0px;
+	width: 50%;
+	background-color: #def6ed;
+
+}
+nav{
+  list-style-type: none;
+  margin: 5px;
+  padding: 5px;
+  overflow: hidden;
+  background-color: #333;
+  border: solid grey;
+  text-align: center;
+}
